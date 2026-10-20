@@ -1,10 +1,21 @@
-# Portal Citadela
+# README.md
 
-Mini web de práctica para aprender Git.
+# Registro de portales
 
-# Como abrirlo
+> Rick valida rutas. Morty registra datos ficticios de prueba.
 
-1. Abre la carpeta del proyecto.
-2. Abre "index.html" en el navegador.
+El proyecto reúne las comprobaciones del portal C-137
 
-**Autor:** Rick C-137
+# misiones.txt
+
+Portal C-137
+Estado de la misión: en pruebas
+Responsable de la misión: Morty
+
+# web/index.html
+
+<h1>Portal C-137</h1>
+
+# web/styles.css
+
+body { font-family: system-ui; }
