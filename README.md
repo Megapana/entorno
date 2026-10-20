@@ -24,3 +24,5 @@ Responsable de la misión: Morty
 # web/styles.css
 
 body { font-family: system-ui; }
+
+REgistro revisado por Morty.
