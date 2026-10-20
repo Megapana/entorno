@@ -1,3 +1,7 @@
+## Miembros del equipo
+
+- Rick
+
 # README.md
 
 # Registro de portales
