@@ -1,6 +1,7 @@
 ## Miembros del equipo
 
 - Rick
+- Morty
 
 # README.md
 
